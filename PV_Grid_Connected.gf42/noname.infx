@@ -1,0 +1,42 @@
+<output name="PV_Grid_Connected" device="EMTDC" version="2010" date="2022/08/22" time="11:48:15.000000">
+  <paramlist />
+  <domain name="Time" unit="s" mult="0.0" skew="0.0">
+    <sample rate="200000.0" end="2000000" />
+  </domain>
+  <analog>
+    <channel index="0" id="751637292:0" name="Vin" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="1" id="2023434278:0" name="Vin" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="2" id="1497295974:0" name="Ea" label="" dim="1" unit="kV" min="-2.0" max="2.0" />
+    <channel index="3" id="599177408:0" name="Ic" label="" dim="1" unit="kA" min="-2.0" max="2.0" />
+    <channel index="4" id="1857777290:0" name="Vc" label="" dim="1" unit="kV" min="-2.0" max="2.0" />
+    <channel index="5" id="1153461317:0" name="Vap" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="6" id="1873704873:0" name="Vbp" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="7" id="831391008:0" name="theta" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="8" id="1968376445:0" name="BRK1" label="" dim="1" unit="kA" min="-2.0" max="2.0" />
+    <channel index="9" id="1974256702:0" name="Vcp" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="10" id="1674842833:0" name="Iap" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="11" id="2105481209:0" name="Iq" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="12" id="709259535:0" name="P" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="13" id="60176252:0" name="iqref" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="14" id="1472825809:0" name="pulse3" label="" dim="2" unit="" min="-2.0" max="2.0" />
+    <channel index="16" id="176878879:0" name="Uq1" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="17" id="2082630586:0" name="pulse2" label="" dim="2" unit="" min="-2.0" max="2.0" />
+    <channel index="19" id="1551899702:0" name="Id" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="20" id="667818661:0" name="triangle" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="21" id="458302929:0" name="pulse1" label="" dim="2" unit="" min="-2.0" max="2.0" />
+    <channel index="23" id="2117920792:0" name="Ud1" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="24" id="1952347236:0" name="ref" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="25" id="892059177:0" name="Uq" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="26" id="1444329207:0" name="Ud" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="27" id="1349006619:0" name="GV" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="28" id="1076123027:0" name="Icr" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="29" id="307637795:0" name="Vap" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="30" id="1909062398:0" name="Iagf" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="31" id="1055808582:0" name="Iap" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="32" id="744104939:0" name="Iao" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="33" id="487327776:0" name="Idc" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="34" id="1674494239:0" name="Pout" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="35" id="1152523658:0" name="dcVltg" label="" dim="1" unit="" min="-2.0" max="2.0" />
+  </analog>
+  <digital />
+</output>

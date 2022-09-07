@@ -1,0 +1,39 @@
+<Project name="PV_Grid_Connected">
+  <hierarchy />
+  <messagelist>
+    <message status="normal" label="build" scope="PV_Grid_Connected"><![CDATA[Generating network and source code 'C:\Users\杨广辉\Desktop\毕设pscad\PV_Grid_Connected.gf42\Main.f'.]]></message>
+    <message status="warning" label="build">
+      <User scope="PV_Grid_Connected" name="master:bin_delay" status="warning" link="96242010" /><![CDATA[Signal 'RT_5' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build">
+      <User scope="PV_Grid_Connected" name="master:peswitch" status="warning" link="1368230651" /><![CDATA[Signal 'GV' type conversion may lose accuracy at connection 'APUL']]></message>
+    <message status="normal" label="build" scope="PV_Grid_Connected"><![CDATA[Generating 'C:\Users\杨广辉\Desktop\毕设pscad\PV_Grid_Connected.gf42\PV_Grid_Connected.map'.]]></message>
+    <message status="normal" label="build" scope="PV_Grid_Connected"><![CDATA[Time for Compile: 422ms  Make: 16ms]]></message>
+    <message status="normal" label="build" scope="PV_Grid_Connected"><![CDATA[Solve Time = 16ms]]></message>
+    <message status="normal" label="build" scope="PV_Grid_Connected"><![CDATA[Will execute: call D:\GFortran\4.2.1\bin\gf42vars.bat]]></message>
+    <message status="normal" label="build" scope="PV_Grid_Connected"><![CDATA[Will execute: make -f PV_Grid_Connected.mak]]></message>
+    <message status="normal" label="build" scope="PV_Grid_Connected"><![CDATA[Will execute: C:\Users\杨广辉\Desktop\毕设PS~1\PV_GRI~1.GF4\\PV_GRI~1.BAT]]></message>
+    <message status="normal" label="build" scope="PV_Grid_Connected"><![CDATA[Creating EMTDC executable...]]></message>
+    <message status="normal" label="build" scope="PV_Grid_Connected"><![CDATA[C:\Users\杨广辉\Desktop\毕设pscad\PV_Grid_Connected.gf42>call D:\GFortran\428484~1.1\bin\gf42vars.bat ]]></message>
+    <message status="normal" label="build" scope="PV_Grid_Connected"><![CDATA[Linking object code and libraries into binary 'PV_Grid_Connected.exe']]></message>
+  </messagelist>
+  <emt>
+    <netlist name="Station" call_count="1" ss_count="0">
+      <signals>
+        <signal name="GND" dim="1" ss_id="0" node_map_count="1" local_storage_index="0">
+          <sg_points />
+          <node_number global="0" sg_local="0" sg_callindex="0" />
+        </signal>
+      </signals>
+      <components>
+        <component id="1543154702" />
+      </components>
+    </netlist>
+  </emt>
+  <views>
+    <view name="Main" zoomlevel="6" scrollx="0" scrolly="976" />
+    <view name="abc" zoomlevel="5" scrollx="0" scrolly="0" />
+  </views>
+  <catalog>
+    <group name="(No Label)" />
+  </catalog>
+</Project>
